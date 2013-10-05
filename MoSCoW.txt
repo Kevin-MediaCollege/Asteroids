@@ -1,0 +1,21 @@
+Must
+	- Player movement
+	- Player kan schieten
+	- Astroids
+	
+Should
+	- Health
+	- Asteroids in kleine stukjes breken als ze geraakt worden
+	- Score counter
+
+Could
+	- Verschillende type enemies
+	- Meerdere type astroids
+	- Meerdere wapens
+	- Highscores
+
+Would
+	- Mooie art
+	- Online highscores
+	- Health pickups
+	- Menu
